@@ -13,6 +13,7 @@ A curated list of resources about podman
 
 ## Project Links
  - [Project Homepage](https://podman.io/)
+ - [Yantr](https://github.com/besoeasy/yantr) - Self-hosted homelab app store built 100% on rootless Podman — deploys curated apps as compose stacks compiled to systemd Quadlet units
 
 ## Blog Posts
  - [Running a non-root container on Fedora with podman and systemd ](https://blog.christophersmart.com/2019/09/20/running-a-non-root-container-on-fedora-with-podman-and-systemd/)
